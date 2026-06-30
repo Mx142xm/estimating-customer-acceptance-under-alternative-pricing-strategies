@@ -1,0 +1,1 @@
+# estimating-customer-acceptance-under-alternative-pricing-strategies
